@@ -1,0 +1,48 @@
+var movies = `[
+	{
+		"title":"MovieA", 
+		"description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam",
+		"image":"img/placeholder.png",
+		"alt":"MovieA",
+		"rating":0
+	},
+
+	{
+		"title":"MovieB",
+		"description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam",
+		"image":"img/placeholder.png",
+		"alt":"MovieB",
+		"rating":0
+	},
+
+	{
+		"title":"MovieC", 
+		"description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam",
+		"image":"img/placeholder.png",
+		"alt":"MovieC",
+		"rating":0
+	},
+	
+	{
+		"title":"MovieD", 
+		"description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam",
+		"image":"img/placeholder.png",
+		"alt":"MovieD",
+		"rating":0
+	},
+	
+	{
+		"title":"MovieE", 
+		"description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam",
+		"image":"img/placeholder.png",
+		"alt":"MovieE",
+		"rating":0
+	},
+	
+	{
+		"title":"MovieF", 
+		"description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam",
+		"image":"img/placeholder.png",
+		"alt":"MovieF",
+		"rating":0
+	}]`;
